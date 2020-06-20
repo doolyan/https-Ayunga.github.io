@@ -1,0 +1,21 @@
+body{
+	background:url(../img/beijing1.png);}
+h1{
+	margin-left:220px;}
+#zaonian,#yanyi{
+	margin:0 auto 40px; 
+	padding:25px 30px; 
+	background:#fff; 
+	overflow:hidden;
+	width:740px}
+p{
+	padding-top:4px; 
+	margin-left:22px;
+	margin-right:22px;
+	color:#505050; 
+	line-height:1.5; 
+	font-size:15px;}
+img{
+	margin-left:22px;}
+.cuti{
+	font-weight:bold;}

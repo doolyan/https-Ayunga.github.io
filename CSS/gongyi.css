@@ -1,0 +1,35 @@
+body{
+	background:url(../img/beijing3.png);}
+header{
+	background:url(../img/beijing4.png);	text-align:center;
+	color:#669966;
+	margin:0px;
+	height:80px;
+	width:770px;
+	margin:0 auto;
+	padding:20px;
+	border:5px solid gray;
+	border-style:outset;}
+#ouxiang,#fensi{
+	background:url(../img/beijing1.png);
+	width:740px;
+	margin-top:30px;
+	margin:0 auto;
+	margin-top:20px;
+	padding:30px;
+	border:5px solid gray;
+	border-style:outset;
+	background-repeat:no-repeat;
+	background-size:cover;}					/*铺满*/
+p{
+	line-height:1.9;
+	font-size:15px;}
+.tu{
+	display:inline;
+	text-align:center;
+	border:none;
+	}
+.tu table{
+	border:none;}
+.tu td{
+	padding:10px;}

@@ -1,0 +1,36 @@
+body{
+	background:url(../img/beijing2.png);}
+#zhinan{
+	background:url(../img/beijing5.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+	width:740px;
+	height:2000px;
+	padding:30px;
+	margin:0 auto;
+	}
+#zhinan #youxiu,#yewu,#caifang,#biaodan{
+	border-top:5.5px solid black;
+	padding-top:20px;
+	padding-b0ttom:20px;
+	line-height:2.2;
+	}
+#heji{
+	float:left;}
+.tu{						/*图片放进一个类里，做同样处理*/
+	float:right;
+	margin:20px;}
+	.cuti{
+	font-weight:bold;}
+.peitu{ 
+	width:500px;
+	float:right;
+	display:inline-block;}
+.peitu p{
+	text-align:center;}
+a{
+	text-decoration:none;}
+a:link,a:visited{
+	color:black;}
+a:hover{
+	color:#808080;}
